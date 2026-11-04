@@ -48,12 +48,12 @@ Folder: Task2_SocialMedia
 Repository Structure
 
 codealpha_tasks
-│
-├── Task1_Ecommerce
-│
-├── Task2_SocialMedia
-│
-└── README.md
+
+── Task1_Ecommerce
+
+── Task2_SocialMedia
+
+── README.md
 
 About Me
 
